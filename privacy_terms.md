@@ -78,7 +78,12 @@ By using [Bot Name], you agree to comply with and be bound by the following term
 6.1. If you have any questions or concerns about our Terms of Use, please contact us at https://discord.gg/SXVS7YAa7p.
 
 ### Liberys Information
+Here we explain how our bot actually works. This will give you a better understanding of whether your data is being used securely.
 
 #### [Disnake](https://docs.disnake.dev/en/stable/)
 
 We use Disnake to develop our Discord Bot. We use all given intents from discord to improve the features of our bot.
+
+#### [SellPass API](https://docs.sellpass.io/)
+
+Is responsible for the main connection between discord & sellpass. Requests are sent to sellpass via this in commands api. Using an official API ensures more security between your account and our bot.

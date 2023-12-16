@@ -45,13 +45,13 @@ If you have any questions or concerns about our Privacy Policy, please contact u
 
 Effective Date: 12.12.2023
 
-By using [Bot Name], you agree to comply with and be bound by the following terms of use. Please read these terms carefully before using our Discord bot. If you do not agree with any part of these terms, you may not use the bot.
+By using SellPass Assist, you agree to comply with and be bound by the following terms of use. Please read these terms carefully before using our Discord bot. If you do not agree with any part of these terms, you may not use the bot.
 
 ### 1. Use of the Bot
 
-1.1. You agree to use [Bot Name] in accordance with all applicable laws and regulations and in a manner consistent with its intended purpose.
+1.1. You agree to use SellPass Assist in accordance with all applicable laws and regulations and in a manner consistent with its intended purpose.
 
-1.2. You understand and acknowledge that [Bot Name] is a tool that serves as a bridge between SellPass and Discord, facilitating specific functionalities within Discord servers.
+1.2. You understand and acknowledge that SellPass Assist is a tool that serves as a bridge between SellPass and Discord, facilitating specific functionalities within Discord servers.
 
 ### 2. Data Collection and Privacy
 
@@ -61,7 +61,7 @@ By using [Bot Name], you agree to comply with and be bound by the following term
 
 ### 3. Responsible Use
 
-3.1. You agree not to use [Bot Name] for any unlawful or prohibited purpose.
+3.1. You agree not to use SellPass Assist for any unlawful or prohibited purpose.
 
 3.2. You will not attempt to circumvent any security features or interfere with the proper functioning of the bot.
 

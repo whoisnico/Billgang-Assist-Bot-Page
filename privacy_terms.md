@@ -76,7 +76,7 @@ By using SellPass Assist, you agree to comply with and be bound by the following
 
 ### 6. Contact Information
 
-6.1. If you have any questions or concerns about our Terms of Use, please contact us at https://discord.gg/SXVS7YAa7p.
+6.1. If you have any questions or concerns about our Terms of Use, please contact us at [https://discord.gg/SXVS7YAa7p](https://discord.gg/XrshPNYJ7h).
 
 ### Liberys Information
 Here we explain how our bot actually works. This will give you a better understanding of whether your data is being used securely.

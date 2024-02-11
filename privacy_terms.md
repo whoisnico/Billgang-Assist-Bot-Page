@@ -11,6 +11,7 @@ Our bot stores the following information:
 - Server ID: Unique identification for your Discord server.
 - API Token: A secure token used to authenticate and connect with SellPass.
 - Shop ID: Identifier for the specific shop associated with your Discord server.
+- Order ID: To prevent the assignment of multiple customer roles with the same order.
 
 ### 2. Data Security
 
@@ -20,9 +21,9 @@ We take data security seriously. All information collected by our bot is securel
 
 Your data is automatically deleted from our system if the bot is removed from your server. We do not retain any information after the bot is no longer connected to your Discord server.
 
-### 4. Reset Command
+### 4. Delete Command
 
-You have the ability to delete all stored information at any time using the /reset command. This command ensures the removal of Server ID, API Token, and Shop ID from our records.
+You have the ability to delete all stored information at any time using the /delete command. This command ensures the removal of Server ID, API Token, and Shop ID from our records.
 
 ### 5. Limited Developer Access
 

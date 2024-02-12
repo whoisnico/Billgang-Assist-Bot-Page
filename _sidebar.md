@@ -2,3 +2,4 @@
 - [Commands & Features](commands_features)
 - [Privacy / Terms](privacy_terms)
 - [Updates](updates)
+- [Erros & Solutions](erros_solutions)

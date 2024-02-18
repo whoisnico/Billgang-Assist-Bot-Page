@@ -52,3 +52,38 @@ Importants Links
   ```
 ## Sellpass Intergration
 
+### /setup
+
+> usage: `/setup (token) (logchannel)` 
+
+Set up the bot for your server
+
+### /delete
+
+> usage: `/delete` 
+
+Delete all your Bot Data from our Database
+
+### /set_customerrole
+
+> usage: `/set_customerrole (role)` 
+
+Set up the customer role feature for your server
+
+### /claim
+
+> usage: `/claim (order_id)` 
+
+Let the use claim the customer role
+
+### /order
+
+> usage: `/order (order_id)` 
+
+Get information about a order id
+
+### /password
+
+> usage: `/password (password / Null)` 
+
+Set or delete a shop password

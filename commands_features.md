@@ -87,3 +87,23 @@ Get information about a order id
 > usage: `/password (password / Null)` 
 
 Set or delete a shop password
+
+### /coupons
+
+> usage: `/coupons` 
+
+See all your coupons code
+
+### /create_coupon
+
+> usage: `/create_coupon (name) (discount)` 
+
+Create a coupon code
+- Type the discount without % at the end only the number
+
+### /delete_coupon
+
+> usage: `/delete_coupon (coupon_id)` 
+
+Delete a coupon code
+- You can see the coupon id with the /coupons command

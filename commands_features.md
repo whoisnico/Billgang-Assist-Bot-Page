@@ -70,6 +70,12 @@ Delete all your Bot Data from our Database
 
 Set up the customer role feature for your server
 
+### /shopinfo
+
+> usage: `/shopinfo` 
+
+See your shop information
+
 ### /claim
 
 > usage: `/claim (order_id)` 
@@ -87,6 +93,12 @@ Get information about a order id
 > usage: `/password (password / Null)` 
 
 Set or delete a shop password
+
+### /maintenance
+
+> usage: `/maintenance (True/False)` 
+
+Put your store into maintenance
 
 ### /coupons
 
@@ -107,3 +119,28 @@ Create a coupon code
 
 Delete a coupon code
 - You can see the coupon id with the /coupons command
+
+### /send_faqs
+
+> usage: `/send_faqs (title) (channel)` 
+
+Send your sellpass faq to a channel
+
+### /check_faqs
+
+> usage: `/check_faqs` 
+
+Check your FAQs
+
+### /create_faq
+
+> usage: `/check_faq (question) (answer)` 
+
+Create a FAQ
+
+### /delete_faq
+
+> usage: `/delete_faq (faq_id)` 
+
+Delete a FAQ
+- You can see the faq_id with the /check_faqs command

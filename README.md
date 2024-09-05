@@ -1,4 +1,4 @@
-# SellPass Assist Bot 
+# Billgang Assist Bot 
 
 > Elevate your shop/discord potential with our versatile bot – your all-in-one solution for seamless shop management, powerful integrations, and endless possibilities!
 

@@ -1,15 +1,15 @@
-## Privacy for SellPass Assist Bot
+## Privacy for Billgang Assist Bot
 
 Effective Date: 12.12.2023
 
-This Privacy Policy describes how SellPass Assist we collects, uses, and safeguards your information when you use our Discord bot, which serves as a bridge between SellPass and Discord. By using our bot, you agree to the terms outlined in this Privacy Policy.
+This Privacy Policy describes how Billgang Assist we collects, uses, and safeguards your information when you use our Discord bot, which serves as a bridge between Billgang and Discord. By using our bot, you agree to the terms outlined in this Privacy Policy.
 
 ### 1. Information We Collect
 
 Our bot stores the following information:
 
 - Server ID: Unique identification for your Discord server.
-- API Token: A secure token used to authenticate and connect with SellPass.
+- API Token: A secure token used to authenticate and connect with Billgang.
 - Shop ID: Identifier for the specific shop associated with your Discord server.
 - Order ID: To prevent the assignment of multiple customer roles with the same order.
 
@@ -42,17 +42,17 @@ We reserve the right to update our Privacy Policy. Any changes will be communica
 If you have any questions or concerns about our Privacy Policy, please contact us at https://discord.gg/SXVS7YAa7p.
 
 
-## Terms of Use for SellPass Assist Bot
+## Terms of Use for Billgang Assist Bot
 
 Effective Date: 12.12.2023
 
-By using SellPass Assist, you agree to comply with and be bound by the following terms of use. Please read these terms carefully before using our Discord bot. If you do not agree with any part of these terms, you may not use the bot.
+By using Billgang Assist, you agree to comply with and be bound by the following terms of use. Please read these terms carefully before using our Discord bot. If you do not agree with any part of these terms, you may not use the bot.
 
 ### 1. Use of the Bot
 
-1.1. You agree to use SellPass Assist in accordance with all applicable laws and regulations and in a manner consistent with its intended purpose.
+1.1. You agree to use Billgang Assist in accordance with all applicable laws and regulations and in a manner consistent with its intended purpose.
 
-1.2. You understand and acknowledge that SellPass Assist is a tool that serves as a bridge between SellPass and Discord, facilitating specific functionalities within Discord servers.
+1.2. You understand and acknowledge that Billgang Assist is a tool that serves as a bridge between Billgang and Discord, facilitating specific functionalities within Discord servers.
 
 ### 2. Data Collection and Privacy
 
@@ -62,13 +62,13 @@ By using SellPass Assist, you agree to comply with and be bound by the following
 
 ### 3. Responsible Use
 
-3.1. You agree not to use SellPass Assist for any unlawful or prohibited purpose.
+3.1. You agree not to use Billgang Assist for any unlawful or prohibited purpose.
 
 3.2. You will not attempt to circumvent any security features or interfere with the proper functioning of the bot.
 
 ### 4. Termination of Use
 
-4.1. We reserve the right to terminate or suspend your access to SellPass Assist at any time, with or without notice, for any reason, including a violation of these terms.
+4.1. We reserve the right to terminate or suspend your access to Billgang Assist at any time, with or without notice, for any reason, including a violation of these terms.
 
 ### 5. Changes to Terms of Use
 
@@ -85,6 +85,6 @@ Here we explain how our bot actually works. This will give you a better understa
 
 We use Disnake to develop our Discord Bot. We use all given intents from discord to improve the features of our bot.
 
-#### [SellPass API](https://docs.sellpass.io/)
+#### [Billgang API](https://developers.billgang.com/)
 
-Is responsible for the main connection between discord & sellpass. Requests are sent to sellpass via this in commands api. Using an official API ensures more security between your account and our bot.
+Is responsible for the main connection between discord & Billgang. Requests are sent to Billgang via this in commands api. Using an official API ensures more security between your account and our bot.

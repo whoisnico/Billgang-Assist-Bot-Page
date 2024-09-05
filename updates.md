@@ -1,3 +1,5 @@
+## [Check here our Progress](https://nicotrixxel.notion.site/Billgang-Assist-114eb85c2fae489f875bc93de1ba4388)
+
 ## Open Beta v1.2
 
 #### Title: FAQs & more
